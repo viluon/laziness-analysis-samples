@@ -1,0 +1,5 @@
+.gc-datalog-facts/
+*.hp
+*.zst
+*.prof
+*.eventlog
